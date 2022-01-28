@@ -16,13 +16,12 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r cars}
-# start adding code 
-#RMarkdown formats the document well
-#need data of the same type in matrix
-# hi prof di fiore, I hope you are having an amazing weekend
-# this weekend I am hoping to see some friends and avoid getting COVID 19
-# maybe I should use Rmarkdown as my personal journal
-m[]
+
+#class notes for the week
+#I am sorry this isnt named correctly, Dr. Difiore
+#I hope you are having an amazing weekend and are avoiding COVID 19
+#I like this class
+#R Markdown documents have additional benefits other than just saving a script
 ```
 
 ## Including Plots
