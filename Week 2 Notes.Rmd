@@ -18,6 +18,11 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 # start adding code 
 #RMarkdown formats the document well
+#need data of the same type in matrix
+# hi prof di fiore, I hope you are having an amazing weekend
+# this weekend I am hoping to see some friends and avoid getting COVID 19
+# maybe I should use Rmarkdown as my personal journal
+m[]
 ```
 
 ## Including Plots
